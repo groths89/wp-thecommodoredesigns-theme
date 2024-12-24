@@ -1,12 +1,12 @@
 #!  /bin/bash
 
 #Site configuration options
-SITE_TITLE="Dev Site"
+SITE_TITLE="The Commodore Designs"
 ADMIN_USER=admin
 ADMIN_PASS=password
 ADMIN_EMAIL="admin@localhost.com"
 #Space-separated list of plugin ID's to install and activate
-PLUGINS="advanced-custom-fields"
+PLUGINS="advanced-custom-fields elementor"
 
 #Set to true to wipe out and reset your wordpress install (on next container rebuild)
 WP_RESET=true
